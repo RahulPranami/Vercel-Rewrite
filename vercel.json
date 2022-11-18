@@ -11,6 +11,5 @@
        
     {"source": "/", "destination": "https://gatsby-portfolio-liard.vercel.app/"},
     {"source": "/:match*", "destination": "https://gatsby-portfolio-liard.vercel.app/:match*"}
- 
   ]
 }
