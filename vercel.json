@@ -4,10 +4,10 @@
     {"source": "/project/:project*", "destination": "https://online-music-six.vercel.app/:project*"},
     
     {"source": "/resume/", "destination": "https://resume-digital.vercel.app/"},
-    {"source": "/resume/:match*", "destination": "https://resume-digital.vercel.app/:match*"},
+    {"source": "/resume/:resume*", "destination": "https://resume-digital.vercel.app/:resume*"},
     
     {"source": "/threejs/", "destination": "https://three-js-site.vercel.app/"},
-    {"source": "/threejs/:match*", "destination": "https://three-js-site.vercel.app/:match*"},
+    {"source": "/threejs/:threejs*", "destination": "https://three-js-site.vercel.app/:threejs*"},
        
     {"source": "/", "destination": "https://gatsby-portfolio-liard.vercel.app/"},
     {"source": "/:match*", "destination": "https://gatsby-portfolio-liard.vercel.app/:match*"}
