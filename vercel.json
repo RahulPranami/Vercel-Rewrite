@@ -10,6 +10,6 @@
     {"source": "/resume/:match*", "destination": "https://resume-digital.vercel.app/:match*"},
     
     {"source": "/threejs/", "destination": "https://three-js-site.vercel.app/"},
-    {"source": "/threejs/:match*", "destination": "https://three-js-site.vercel.app/:match*"},
+    {"source": "/threejs/:match*", "destination": "https://three-js-site.vercel.app/:match*"}
   ]
 }
