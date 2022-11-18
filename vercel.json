@@ -3,7 +3,7 @@
     {"source": "/project/", "destination": "https://online-music-six.vercel.app/"},
     {"source": "/project/:match*", "destination": "https://online-music-six.vercel.app/:match*"},
     
-    {"source": "/resume/", "destination": "https://resume-digital.vercel.app/"},
+    {"source": "/resume", "destination": "https://resume-digital.vercel.app/"},
     {"source": "/resume/:match*", "destination": "https://resume-digital.vercel.app/:match*"},
     
     {"source": "/threejs/", "destination": "https://three-js-site.vercel.app/"},
