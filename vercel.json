@@ -8,6 +8,11 @@
     
     {"source": "/threejs/", "destination": "https://three-js-site.vercel.app/"},
     {"source": "/threejs/:threejs*", "destination": "https://three-js-site.vercel.app/:threejs*"},
+    
+    
+    {"source": "/vite/", "destination": "https://vite-test-azure.vercel.app/"},
+    {"source": "/vite/:vite*", "destination": "https://vite-test-azure.vercel.app/:vite*"},
+    
        
     {"source": "/", "destination": "https://gatsby-portfolio-liard.vercel.app/"},
     {"source": "/:match*", "destination": "https://gatsby-portfolio-liard.vercel.app/:match*"}
